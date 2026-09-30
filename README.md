@@ -8,8 +8,8 @@ These are designed to make tech concepts easier to understand and revisit. Each 
 
 PDFs are organized by topic. Open a folder and select a PDF to view or download it.
 
-- `software-concepts/`
-- `python/`
+- `software-engineering/`
+- `networking/`
 - `system-design/`
 
 More topics will be added over time.
